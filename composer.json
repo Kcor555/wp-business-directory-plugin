@@ -1,0 +1,16 @@
+{
+    "name": "pj/business-directory-plugin",
+    "description": "A business directory plugin",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Kris Cochran",
+            "email": "74980761+Kcor555@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "htmlburger/carbon-fields": "^3.3",
+        "wpscholar/url": "^1.2"
+    }
+}
